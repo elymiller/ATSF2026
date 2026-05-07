@@ -1,7 +1,7 @@
 team_name: "syed"
 team_abbr: "syed"
-model_name: "SIRS-EnKF"
-model_abbr: "SIRS-EnKF"
+model_name: "SIRSEnKF"
+model_abbr: "SIRSEnKF"
 designated_model: true
 model_contributors: [
   {
